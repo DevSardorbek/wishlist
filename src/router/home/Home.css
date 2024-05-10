@@ -1,0 +1,13 @@
+.home {
+  margin-top: 80px;
+  h2 {
+    width: 100%;
+    height: calc(100vh - 80px);
+    background: linear-gradient(40deg, #fbc8fb, #b6dbff);
+    text-align: center;
+    display: grid;
+    place-items: center;
+    color: dodgerblue;
+    font-size: 4vw;
+  }
+}
